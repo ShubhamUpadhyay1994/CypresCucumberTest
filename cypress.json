@@ -1,0 +1,7 @@
+{
+  "watchForFileChanges": false,
+  "projectId": "xjrxd6",
+  "baseUrl":"https://www.google.com/",
+  "video":true,
+  "testFiles": "**/*.feature"
+}
